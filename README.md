@@ -1,6 +1,6 @@
 # 📚 Biblioteca de Estudos em Desenvolvimento de Software
 
-Este repositório reúne materiais para quem deseja estudar desenvolvimento web, algoritmos e engenharia de software. Aqui estão reunidos livros completos e organizados para consulta e aprendizado.
+Este repositório reúne materiais para quem deseja estudar desenvolvimento web, algoritmos e engenharia de software. 
 
 ## 📖 Livros incluídos
 
