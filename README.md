@@ -28,6 +28,37 @@ Este repositório reúne materiais para quem deseja estudar desenvolvimento web,
   - Algoritmos Gulosos, KNN e conceitos de Machine Learning
 - Didático e recomendado para quem deseja entender algoritmos de forma visual e prática.
 
+- ### 🌐 Redes de Computadores
+- **Redes de Computadores e Segurança — Auro Lima Carvalho (PDF)**
+  - Tipos de redes, topologias e cabeamento
+  - Satélites, equipamentos de rede e segurança
+  - Arquitetura de sistemas distribuídos e computação em nuvem
+
+---
+
+### 🖥️ Teoria da Computação
+- **Linguagens Formais e Autômatos — Razer Anthom Nizer Rojas Montaño (PDF)**
+  - Linguagens Regulares, Autômatos Finitos, Expressões Regulares
+  - Linguagens Livres de Contexto, Autômatos de Pilha
+  - Máquinas de Turing, Decidibilidade, Complexidade Computacional
+
+---
+
+### 🎨 Design Thinking & Criatividade
+- **Design Thinking — Professora Simone Oliveira dos Santos Cardoso (PDF)**
+  - Criatividade, Processos Criativos e Inovação
+  - Ferramentas do Design Thinking
+  - Prototipação e Validação de Ideias
+
+---
+
+### 📝 Technical Writing
+- **Technical Writing — Slides da Escola UX & Design (PDF)**
+  - Estratégias e Boas Práticas de Escrita Técnica
+  - Tipos de Documentação Técnica (Guias, Tutoriais, How-To, API Docs)
+  - Habilidades e Perfis de um Technical Writer
+
+
 ---
 
 
